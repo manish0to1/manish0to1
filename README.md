@@ -1,5 +1,5 @@
 ## Hey! 👋 I'm Manish Nayak
-### Web Developer | Experienced in Developing and Deploying Web Applications
+### Java Developer | Web Developer | Experienced in Developing and Deploying Web Applications
 
 ![](https://komarev.com/ghpvc/?username=nayak-softworld)
 
