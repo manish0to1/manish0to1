@@ -7,12 +7,11 @@
 
 🔭 I’m currently working on my skills and learning how to work with others.
 
-
 🌱 Along my coding journey, I've acquired expertise in multiple cutting-edge frameworks.
 
-👯 I’m keen on collaborating on React.js development projects.
+👯 I’m keen on collaborating on Java | React.js development projects.
 
-💬 Ask me anything about  React.js, Next.js, Firebase, , or Tailwind CSS.
+💬 Ask me anything about Java | React.js | Next.js | Firebase | Tailwind CSS.
 
 📫 You can reach me at nayak10softworld@gmail.com
 
