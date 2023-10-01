@@ -1,4 +1,5 @@
-## Hey! 👋 I'm Manish Nayak
+## Hey! 👋 I'm Manish
+
 ### Java Developer | Web Developer | Experienced in Developing and Deploying Web Applications
 
 ![](https://komarev.com/ghpvc/?username=nayak-softworld)
