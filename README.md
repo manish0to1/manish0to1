@@ -19,7 +19,7 @@
 ⚡ Fun fact: In the past, I used to believe that coding was all about memorizing code snippets. Now, I know better and code like a professional! 😉
 
 ### 🌐 Connect With Me
-<a href="https://www.linkedin.com/manish-116502227/" target="blank"><img src="https://www.svgrepo.com/show/452047/linkedin-1.svg" alt="nayak_manish" height="30" width="40" />
+<a href="https://www.linkedin.com/in/manishnayak10official/" target="blank"><img src="https://www.svgrepo.com/show/452047/linkedin-1.svg" alt="nayak_manish" height="30" width="40" />
 </a>
 
 ### 🔎 Tech Stack
