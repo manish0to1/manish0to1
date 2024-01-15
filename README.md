@@ -12,7 +12,7 @@
 
 👯 I’m keen on collaborating on Java | React.js development projects.
 
-💬 Ask me anything about Java | React.js | Next.js | Firebase | Tailwind CSS.
+💬 Ask me about  Java or Advanced Java | MySql | React.js | Next.js | JDBC | Firebase | Tailwind CSS.
 
 📫 You can reach me at nayak10softworld@gmail.com
 
