@@ -12,11 +12,11 @@
 
 👯 I’m keen on collaborating on Java | React.js development projects.
 
-💬 Ask me about  Java or Advanced Java | MySql | React.js | Next.js | JDBC | Firebase | Tailwind CSS.
+💬 Ask me about  Java | MySql | React.js | JDBC | Firebase | Tailwind CSS | SpringBoot ...
 
 📫 You can reach me at nayak10softworld@gmail.com
 
-⚡ Fun fact: In the past, I used to believe that coding was all about memorizing code snippets. Now, I know better and code like a professional! 😉
+⚡ Fun fact : When I first started coding, I thought it was all about perfection, striving for flawless code with no errors. But over time, I've come to appreciate the beauty of imperfection. Embracing bugs and mistakes as part of the learning process has made me a better coder, always seeking improvement rather than perfection....!😉
 
 ### 🌐 Connect With Me
 <a href="https://www.linkedin.com/in/manishnayak10official/" target="blank"><img src="https://www.svgrepo.com/show/452047/linkedin-1.svg" alt="nayak_manish" height="30" width="40" />
