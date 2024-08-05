@@ -2,7 +2,7 @@
 
 ### Java Developer | Web Developer | Experienced in Developing and Deploying Web Applications
 
-![](https://komarev.com/ghpvc/?username=nayak-softworld)
+![](https://komarev.com/ghpvc/?username=manish0to1)
 
 👨‍💻 Welcome to my GitHub profile! 👨‍💻
 
