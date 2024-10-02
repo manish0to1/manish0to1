@@ -16,7 +16,7 @@
 
 📫 You can reach me at Gmail.com
 
-⚡ Fun fact : When I first started coding, I thought it was all about perfection, striving for flawless code with no errors. But over time, I've come to appreciate the beauty of imperfection. Embracing bugs and mistakes as part of the learning process has made me a better coder, always seeking improvement rather than perfection....!😉
+⚡ Fun fact : When I first started coding, I thought it was all about perfection, striving for flawless code with no errors. But over time, I've come to appreciate the beauty of imperfection. Embracing bugs and mistakes as part of the learning process has made me a better developer & coder, always seeking improvement rather than perfection....!😉
 
 ### 🌐 Connect With Me
 <a href="https://www.linkedin.com/in/manish0to1/" target="blank"><img src="https://www.svgrepo.com/show/452047/linkedin-1.svg" alt="lala_manish" height="30" width="40" /></a>
