@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 ## Hey! 👋 I'm Manish
 
-### Java Developer | Web Developer | Experienced in Developing and Deploying Web Applications
+### Web & React Developer | Turning Ideas into Robust, Responsive, and Efficient Web Applications
 
 ![](https://komarev.com/ghpvc/?username=manish0to1)
 
@@ -11,9 +11,9 @@
 
 🌱 Along my coding journey, I've acquired expertise in multiple cutting-edge frameworks.
 
-👯 I’m keen on collaborating on Java | React.js development projects.
+👯 I’m keen on collaborating on React.js | Next.js development projects.
 
-💬 Ask me about  Java | MySql | React.js | JDBC | Firebase | Tailwind CSS | SpringBoot ...
+💬 Ask me about  Python | MySql | React.js | Next.js | Firebase | Tailwind CSS ....
 
 📫 You can reach me at Gmail.com
 
