@@ -13,7 +13,7 @@
 
 👯 I’m keen on collaborating on React.js | Next.js development projects.
 
-💬 Ask me about  Python | MySql | React.js | Next.js | Firebase | Tailwind CSS ....
+💬 Ask me about  Python | MySql | React.js | Next.js | Firebase | Tailwind CSS | Type Script | Java Script | MudBlazor | DotNet ....
 
 📫 You can reach me at Gmail.com
 
